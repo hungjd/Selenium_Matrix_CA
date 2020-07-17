@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MATRIX CA - AUTOMATION TEST SUITE">
+
+	<listeners>
+		<listener
+			class-name="matrix.ca.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+
+	<test name="Matrix CA Test Cases">
+		<classes>
+			<class name="matrix.ca.testcases.LoginPageTest"></class>
+			<class name="matrix.ca.testcases.HomePageTest"></class>
+		</classes>
+	</test>
+</suite>

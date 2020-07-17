@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MATRIX CA TEST AUTOMATION TEST SUITE]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="matrix.ca.ExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test name="Matrix CA Test Cases(failed)">
+    <classes>
+      <class name="matrix.ca.testcases.HomePageTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="setUp"/>
+          <include name="CustomerServiceEmailTest"/>
+        </methods>
+      </class> <!-- matrix.ca.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- Matrix CA Test Cases(failed) -->
+</suite> <!-- Failed suite [MATRIX CA TEST AUTOMATION TEST SUITE] -->
