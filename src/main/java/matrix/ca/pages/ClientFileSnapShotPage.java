@@ -35,6 +35,7 @@ public class ClientFileSnapShotPage extends TestBase {
 		
 		// TC1: validate ClientFileNumber
 		public String verifyClientFileNumber() {
+			return null;
 			//return MatrixClientFile.getText();
 		}
 		
@@ -44,4 +45,3 @@ public class ClientFileSnapShotPage extends TestBase {
 
 
 
-}

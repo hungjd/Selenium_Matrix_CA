@@ -89,7 +89,7 @@ public class HomePageTest extends TestBase {
 		//System.out.println("ActualSignInName = " + ActualSignInName);
 		
 		// get ExpectedSignInName
-		// enhancement: Parameterizing the Tests with multiple data 
+		// enhancement/phase 2: Parameterizing the Tests with multiple data 
 		
 		StringBuilder buffer1 = new StringBuilder();
 
