@@ -2,102 +2,102 @@
 <testng-results ignored="0" total="8" passed="7" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-07-17T14:27:26Z" name="MATRIX CA TEST AUTOMATION TEST SUITE" finished-at="2020-07-17T14:28:38Z" duration-ms="72607">
+  <suite started-at="2020-07-18T02:27:47Z" name="MATRIX CA AUTOMATION - REGRESSION TEST SUITE" finished-at="2020-07-18T02:29:04Z" duration-ms="77223">
     <groups>
     </groups>
-    <test started-at="2020-07-17T14:27:26Z" name="Matrix CA Test Cases" finished-at="2020-07-17T14:28:38Z" duration-ms="72607">
+    <test started-at="2020-07-18T02:27:47Z" name="Matrix CA Test Cases" finished-at="2020-07-18T02:29:04Z" duration-ms="77223">
       <class name="matrix.ca.testcases.LoginPageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:matrix.ca.testcases.LoginPageTest@2df3b89c]" started-at="2020-07-17T09:27:26Z" name="setUp" finished-at="2020-07-17T09:27:35Z" duration-ms="9079" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:matrix.ca.testcases.LoginPageTest@b46e103]" started-at="2020-07-17T21:27:47Z" name="setUp" finished-at="2020-07-17T21:27:57Z" duration-ms="9620" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="LoginPageTitleTest()[pri:1, instance:matrix.ca.testcases.LoginPageTest@2df3b89c]" started-at="2020-07-17T09:27:35Z" name="LoginPageTitleTest" finished-at="2020-07-17T09:27:35Z" duration-ms="26" status="PASS">
+        <test-method signature="LoginPageTitleTest()[pri:1, instance:matrix.ca.testcases.LoginPageTest@b46e103]" started-at="2020-07-17T21:27:57Z" name="LoginPageTitleTest" finished-at="2020-07-17T21:27:57Z" duration-ms="37" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginPageTitleTest -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:matrix.ca.testcases.LoginPageTest@2df3b89c]" started-at="2020-07-17T09:27:35Z" name="closeBrowser" finished-at="2020-07-17T09:27:36Z" duration-ms="941" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:matrix.ca.testcases.LoginPageTest@b46e103]" started-at="2020-07-17T21:27:57Z" name="closeBrowser" finished-at="2020-07-17T21:27:57Z" duration-ms="762" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:matrix.ca.testcases.LoginPageTest@2df3b89c]" started-at="2020-07-17T09:27:44Z" name="setUp" finished-at="2020-07-17T09:27:52Z" duration-ms="7991" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:matrix.ca.testcases.LoginPageTest@b46e103]" started-at="2020-07-17T21:28:06Z" name="setUp" finished-at="2020-07-17T21:28:13Z" duration-ms="6976" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="UserLoginTest()[pri:2, instance:matrix.ca.testcases.LoginPageTest@2df3b89c]" started-at="2020-07-17T09:27:52Z" name="UserLoginTest" finished-at="2020-07-17T09:27:53Z" duration-ms="250" status="PASS">
+        <test-method signature="UserLoginTest()[pri:2, instance:matrix.ca.testcases.LoginPageTest@b46e103]" started-at="2020-07-17T21:28:13Z" name="UserLoginTest" finished-at="2020-07-17T21:28:13Z" duration-ms="343" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- UserLoginTest -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:matrix.ca.testcases.LoginPageTest@2df3b89c]" started-at="2020-07-17T09:27:53Z" name="closeBrowser" finished-at="2020-07-17T09:27:53Z" duration-ms="773" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:matrix.ca.testcases.LoginPageTest@b46e103]" started-at="2020-07-17T21:28:13Z" name="closeBrowser" finished-at="2020-07-17T21:28:14Z" duration-ms="812" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- matrix.ca.testcases.LoginPageTest -->
       <class name="matrix.ca.testcases.HomePageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:27:36Z" name="setUp" finished-at="2020-07-17T09:27:44Z" duration-ms="7703" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:27:57Z" name="setUp" finished-at="2020-07-17T21:28:05Z" duration-ms="7764" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="HomePageTitleTest()[pri:1, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:27:44Z" name="HomePageTitleTest" finished-at="2020-07-17T09:27:44Z" duration-ms="12" status="PASS">
+        <test-method signature="HomePageTitleTest()[pri:1, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:28:05Z" name="HomePageTitleTest" finished-at="2020-07-17T21:28:05Z" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- HomePageTitleTest -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:27:44Z" name="closeBrowser" finished-at="2020-07-17T09:27:44Z" duration-ms="775" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:28:05Z" name="closeBrowser" finished-at="2020-07-17T21:28:06Z" duration-ms="897" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:27:53Z" name="setUp" finished-at="2020-07-17T09:28:00Z" duration-ms="6605" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:28:14Z" name="setUp" finished-at="2020-07-17T21:28:21Z" duration-ms="6759" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="CompanyLogoTest()[pri:2, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:28:00Z" name="CompanyLogoTest" finished-at="2020-07-17T09:28:01Z" duration-ms="833" status="PASS">
+        <test-method signature="CompanyLogoTest()[pri:2, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:28:21Z" name="CompanyLogoTest" finished-at="2020-07-17T21:28:24Z" duration-ms="2799" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CompanyLogoTest -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:28:01Z" name="closeBrowser" finished-at="2020-07-17T09:28:02Z" duration-ms="774" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:28:24Z" name="closeBrowser" finished-at="2020-07-17T21:28:24Z" duration-ms="767" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:28:02Z" name="setUp" finished-at="2020-07-17T09:28:10Z" duration-ms="8306" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:28:24Z" name="setUp" finished-at="2020-07-17T21:28:33Z" duration-ms="8205" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="UserSignInTest()[pri:3, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:28:10Z" name="UserSignInTest" finished-at="2020-07-17T09:28:11Z" duration-ms="986" status="PASS">
+        <test-method signature="UserSignInTest()[pri:3, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:28:33Z" name="UserSignInTest" finished-at="2020-07-17T21:28:35Z" duration-ms="2657" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- UserSignInTest -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:28:11Z" name="closeBrowser" finished-at="2020-07-17T09:28:12Z" duration-ms="807" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:28:35Z" name="closeBrowser" finished-at="2020-07-17T21:28:36Z" duration-ms="785" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:28:12Z" name="setUp" finished-at="2020-07-17T09:28:19Z" duration-ms="6857" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:28:36Z" name="setUp" finished-at="2020-07-17T21:28:44Z" duration-ms="8330" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="UserSignInBranchTest()[pri:4, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:28:19Z" name="UserSignInBranchTest" finished-at="2020-07-17T09:28:19Z" duration-ms="847" status="PASS">
+        <test-method signature="UserSignInBranchTest()[pri:4, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:28:44Z" name="UserSignInBranchTest" finished-at="2020-07-17T21:28:45Z" duration-ms="705" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- UserSignInBranchTest -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:28:19Z" name="closeBrowser" finished-at="2020-07-17T09:28:20Z" duration-ms="857" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:28:45Z" name="closeBrowser" finished-at="2020-07-17T21:28:46Z" duration-ms="793" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:28:20Z" name="setUp" finished-at="2020-07-17T09:28:28Z" duration-ms="8216" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:28:46Z" name="setUp" finished-at="2020-07-17T21:28:53Z" duration-ms="6677" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="WelcomeMessageTest()[pri:5, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:28:28Z" name="WelcomeMessageTest" finished-at="2020-07-17T09:28:29Z" duration-ms="914" status="PASS">
+        <test-method signature="WelcomeMessageTest()[pri:5, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:28:53Z" name="WelcomeMessageTest" finished-at="2020-07-17T21:28:53Z" duration-ms="625" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- WelcomeMessageTest -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:28:29Z" name="closeBrowser" finished-at="2020-07-17T09:28:30Z" duration-ms="778" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:28:53Z" name="closeBrowser" finished-at="2020-07-17T21:28:54Z" duration-ms="886" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:28:30Z" name="setUp" finished-at="2020-07-17T09:28:37Z" duration-ms="6722" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:28:54Z" name="setUp" finished-at="2020-07-17T21:29:01Z" duration-ms="6937" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="CustomerServiceEmailTest()[pri:6, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:28:37Z" name="CustomerServiceEmailTest" finished-at="2020-07-17T09:28:38Z" duration-ms="736" status="FAIL">
+        <test-method signature="CustomerServiceEmailTest()[pri:6, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:29:01Z" name="CustomerServiceEmailTest" finished-at="2020-07-17T21:29:03Z" duration-ms="2026" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[The following asserts failed:
@@ -139,11 +139,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CustomerServiceEmailTest -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:matrix.ca.testcases.HomePageTest@23348b5d]" started-at="2020-07-17T09:28:38Z" name="closeBrowser" finished-at="2020-07-17T09:28:38Z" duration-ms="749" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:matrix.ca.testcases.HomePageTest@2b0e9f30]" started-at="2020-07-17T21:29:03Z" name="closeBrowser" finished-at="2020-07-17T21:29:04Z" duration-ms="967" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- matrix.ca.testcases.HomePageTest -->
     </test> <!-- Matrix CA Test Cases -->
-  </suite> <!-- MATRIX CA TEST AUTOMATION TEST SUITE -->
+  </suite> <!-- MATRIX CA AUTOMATION - REGRESSION TEST SUITE -->
 </testng-results>
